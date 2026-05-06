@@ -4,3 +4,4 @@ input           clk,mode
 output	[31:0] out
 );// hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
+//aasaddasdadda
